@@ -11,7 +11,7 @@ Java, Servlets, JSP, Html, CSS.
 
 Instructions on how to install and run the project:
 
-1. Clone the repository: `git clone  `
+1. Clone the repository: `git clone https://github.com/CHETHANsmg/ServletCRUD_Operations.git`
 2. Install dependencies: `servlet`,`Hibernate`,`Mysql`
 
 ## Usage
